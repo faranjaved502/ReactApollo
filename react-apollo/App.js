@@ -6,7 +6,6 @@ import { Platform } from 'react-native';
 // You can import from local files
 //import AssetExample from './components/AssetExample';
 import Listing from './components/Listing';
-import Test from './components/test';
 
 
 const client = new ApolloClient({
